@@ -1,3 +1,4 @@
 .idea
 target
-
+npm-debug-log
+node_modules
